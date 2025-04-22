@@ -7,3 +7,10 @@ El jugador que gane una ronda obtiene un punto por cada ronda.
 EL jugador que alcence 3 puntos gana la partida.
 
 Con ayuda de chatGPT hemos creado un código para la interfaz a partir nuestro propio código. 
+
+
+PRESENTACIÓN CANVA:
+
+https://www.canva.com/design/DAGkIf3--9c/BlBWF-b8qitAqycyFEMlbA/edit
+
+
